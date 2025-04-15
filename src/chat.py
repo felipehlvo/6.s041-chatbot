@@ -129,5 +129,6 @@ SCHOOL RULES:
         self.prompt = self.format_prompt_tokenizer(message, history)
 
         output = self.pipeline(self.prompt, max_new_tokens=256, do_sample=True, temperature=0.7, top_k=50, top_p=0.95)
-        
-        return output[0]["generated_text"][-1]["content"]
+        generated_text = output[0]["generated_text"]
+        new_text = generated_text[len(self.prompt):]
+        return new_text.strip()  # Remove leading/trailing whitespace
