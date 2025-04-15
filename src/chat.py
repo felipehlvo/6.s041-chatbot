@@ -37,7 +37,11 @@ class SchoolChatbot:
              User: {user_input}
              Assistant:"
         """
-        pass
+        prompt = f"""You are a helpful assistant that specializes in Boston schools...
+             User: {user_input}
+             Assistant:"""
+        
+        return prompt
         
     def get_response(self, user_input):
         """
@@ -58,4 +62,13 @@ class SchoolChatbot:
         - Use self.format_prompt() to format the user's input
         - Use self.client to generate responses
         """
-        pass
+        prompt = self.format_prompt(user_input)
+        response = self.client.text_generation(
+                                prompt,
+                                max_new_tokens=200,
+                                temperature=0.7,
+                                do_sample=True,
+                                return_full_text=False
+                            )
+
+        return response.strip()

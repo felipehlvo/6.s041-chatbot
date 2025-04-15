@@ -62,7 +62,7 @@ def create_chatbot():
         TEST
         """
         # TODO: Generate and return response
-        pass
+        return chatbot.get_response(message)
 
     
     
