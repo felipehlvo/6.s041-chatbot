@@ -37,7 +37,10 @@ class SchoolChatbot:
              User: {user_input}
              Assistant:"
         """
-        prompt = f"""You are a helpful assistant that specializes in Boston schools...
+        prompt = f"""You are a helpful assistant that specializes in Boston schools. 
+
+        Respond to the user's question with accurate and helpful information.
+
              User: {user_input}
              Assistant:"""
         
