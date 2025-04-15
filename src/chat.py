@@ -47,7 +47,7 @@ class SchoolChatbot:
              Assistant:"
         """
         system_prompt = """
-        You are a helpful assistant that specializes in Boston schools. You should always provide accurate information, based ONLY on the SCHOOL RULES document below. 
+You are a helpful assistant that specializes in Boston schools. You should always provide accurate information, based ONLY on the SCHOOL RULES document below. 
 
 If an information is not in the SCHOOL RULES document, you should respond with "Sorry, I can't help with that." Only output the answer to the user's immediate question, nothing else. Do not try to predict the next user question.
 
@@ -128,6 +128,6 @@ SCHOOL RULES:
     
         self.prompt = self.format_prompt_tokenizer(message, history)
 
-        output = self.pipeline(self.prompt, max_new_tokens=200)
+        output = pipeline(self.prompt, max_new_tokens=256, do_sample=True, temperature=0.7, top_k=50, top_p=0.95)
         
-        return output[0]["generated_text"].strip()
+        return output[0]["generated_text"][-1]["content"]
