@@ -58,6 +58,8 @@ def create_chatbot():
             - You only need to:
                 - Generate an appropriate response to the current message
                 - Return that response as a string
+
+        TEST
         """
         # TODO: Generate and return response
         pass
