@@ -1,0 +1,61 @@
+Question,Evaluation Dimension,Expected Answer
+What is the deadline for registering a child for K2?,Accuracy,"Priority registration for K2 is from January 6 to February 7, 2025."
+What grades are served by most BPS elementary schools?,Accuracy,Most serve grades K2 through Grade 6.
+How many school choices will families typically receive?,Accuracy,Most families see 10 to 14 options.
+Is it guaranteed that students will get their top school choice?,Accuracy,"No, top choices are not guaranteed; assignment uses an algorithm."
+What documents are needed to register for BPS?,Accuracy,"Birth certificate or passport, immunization record, physical exam, parent ID, and two proofs of Boston residency."
+Do all high schools in Boston have entrance exams?,Accuracy,Some do; most high schools are citywide but some have special admission requirements.
+When do families receive school assignment notifications for K2?,Accuracy,"March 31, 2025."
+Are high schools in BPS citywide?,Accuracy,"Yes, all BPS high schools are citywide."
+Do some BPS schools offer education starting at K0?,Accuracy,"Yes, some schools start at K0 or K1."
+Can families choose any school regardless of home address?,Accuracy,Families can choose any citywide school; regional options may apply.
+How many proofs of address are needed for BPS registration?,Accuracy,"Two documents from different categories (e.g., utility bill, lease)."
+Can students entering Grade 7 in a K-6 school stay in the same school?,Accuracy,"No, they must submit a school choice form."
+What is the best time to register for K2?,Accuracy,"Best chance is for students registering in January for K0, K1, K2, 6, 7, or 9."
+What are the grade levels served by most BPS high schools?,Accuracy,Most serve Grades 7 through 12.
+Is registration complete after online pre-registration?,Accuracy,"No, an appointment with a registration specialist is required to complete registration."
+Can I register my child online?,Relevance,"Yes, but registration is not complete until you meet with a registration specialist."
+How are students assigned to schools in BPS?,Relevance,Based on home address and a customized list; assignment uses an algorithm.
+What is the Home-Based Assignment Plan?,Relevance,It’s based on your home address and includes nearby and high-quality schools.
+Is school assignment based on neighborhood or something else?,Relevance,School assignment is based on home address.
+Do I need to provide proof of address to register?,Relevance,"Yes, two types of proof are required."
+What’s the best time to register my child for school?,Relevance,January is best for priority grades like K2.
+How old must my child be to enter K1?,Relevance,"Check the age chart on the website; cutoffs are by September 1, 2025."
+What’s the difference between a citywide and a regional school?,Relevance,Citywide schools are open to all; regional ones depend on your location.
+What happens after I submit the registration form?,Relevance,Final step is meeting with a BPS registration specialist.
+Is K0 available at all schools?,Relevance,"No, availability varies; not all schools offer K0."
+How do I know which schools are near me?,Relevance,Each family receives a customized list based on their home address.
+What happens if I miss the registration window?,Relevance,Not mentioned; recommend contacting BPS.
+Can I apply to both regional and citywide schools?,Relevance,Yes.
+How does BPS decide which additional schools to offer?,Relevance,To ensure each child is offered a seat and variety.
+Are immunization records required for all grades?,Relevance,"Yes, required for all grades."
+What is the student-teacher ratio in BPS?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+What are the best schools in Boston?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+How does BPS handle bullying?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+Can I transfer schools mid-year?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+What are school hours for Grade 1 students?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+What meals are provided in BPS schools?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+How much does it cost to attend BPS?,Self-Knowledge,BPS is a public school system. There is no tuition for residents.
+What is the curriculum for 5th grade in BPS?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+Is afterschool care provided at BPS?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+How many magnet schools are there in Boston?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+What languages are taught in BPS schools?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+Does BPS offer AP courses?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+Who is the superintendent of BPS?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+Are there arts programs in every school?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+What is the graduation rate of BPS high schools?,Self-Knowledge,I don’t know. Please consult https://www.bostonpublicschools.org/.
+Are K1 assignments guaranteed?,Consistency,"No, assignments to K1 are not guaranteed due to limited seats."
+Are students guaranteed a spot in K1?,Consistency,"No, assignments to K1 are not guaranteed due to limited seats."
+Can I apply to citywide schools?,Consistency,"Yes, any family can apply to citywide schools."
+Are there any schools I can apply to regardless of location?,Consistency,"Yes, citywide schools are open regardless of location."
+How many schools can I list on my school choice form?,Consistency,At least five; more is better.
+What’s the minimum number of schools I should include when registering?,Consistency,At least five; more is better.
+When is the priority registration window for K2?,Consistency,"January 6 to February 7, 2025."
+What dates should I register for K2 to increase my chances of getting a preferred school?,Consistency,"Register between January 6 and February 7, 2025."
+Do families get to choose from nearby schools?,Consistency,"Yes, all schools within 1 mile are included in the list."
+Is my school list based on where I live?,Consistency,"Yes, the list is based on the student's home address."
+Do I need to bring a photo ID when registering?,Consistency,"Yes, parent/guardian photo ID is required."
+Are two types of residency proof required for enrollment?,Consistency,"Yes, two from different categories are required."
+What is the best chance of getting a preferred school?,Consistency,Registering in January gives best chance of getting preferred schools.
+Is school choice affected by my home address?,Consistency,"Yes, it is based on home address."
+Are students assigned by lottery?,Consistency,"Yes, assignment is done using an algorithm, similar to a lottery."
